@@ -1,0 +1,25 @@
+{
+  "name": "wolkenkit-box-rabbitmq",
+  "version": "0.0.0",
+  "description": "wolkenkit-box-rabbitmq is a RabbitMQ container for wolkenkit.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    },
+    {
+      "name": "Matthias Wagler",
+      "email": "matthias.wagler@thenativeweb.io"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "roboter": "0.15.2",
+    "roboter-server": "0.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/wolkenkit-box-rabbitmq.git"
+  },
+  "license": "AGPL-3.0"
+}
